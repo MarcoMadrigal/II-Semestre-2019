@@ -1,5 +1,5 @@
-// Marco Antonio Madrigal Pérez 
-// 2019053902
+// Nombre: Marco Antonio Madrigal Pérez 
+// Carnet: 2019053902
 // Estructuras de datos - Laboratorio I
 
 #include <stdio.h>
