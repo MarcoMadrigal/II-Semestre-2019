@@ -1,5 +1,5 @@
 // Marco Antonio Madrigal Pérez 
-// 20190s53902
+// 2019053902
 // Estructuras de datos - Laboratorio I
 
 #include <stdio.h>
