@@ -112,9 +112,6 @@ int main(){
      que el usuario desea.*/
     verificar_estudiantes(lista,carnet_verificar);
 
-
-    //printf("\nEl nombre del estudiante es: %s\n",lista->nombre);
-    //printf("\nEl carnet del primer estudiante es: %d\n",lista->carnet);
     return 0;
 
 }
