@@ -1,4 +1,8 @@
-
+/* 
+Nombre: Marco Madrigal Pérez
+Carnet: 2019053902
+Programación Orientada a Objetos - Laboratorio 1
+*/
 class Main {
   public static void main(String[] args) {
     // Se crea un objeto de tipo Cuenta, usando el constructor con
