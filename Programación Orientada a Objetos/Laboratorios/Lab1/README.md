@@ -9,7 +9,7 @@ métodos (incluído el método constructor), literales, modificadores de visibil
 referencia this en Java. Para poner en práctica la teoría estudiada, con ayuda de una
 herramienta para hacer diagramas y el IDE de su preferencia, realice lo siguiente.
 
-#1. Un diagrama UML e implemente en Java la clase Cuenta:
+# 1. Un diagrama UML e implemente en Java la clase Cuenta:
 
 a. Atributo privado de tipo entero llamado id (valor por defecto 0).
 
