@@ -1,5 +1,5 @@
 
-class Main {
+class Main { 
   public static void main(String[] args) {
     // Se crea un objeto de tipo Cuenta, usando el constructor con
     // parámetros
