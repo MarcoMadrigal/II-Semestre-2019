@@ -1,5 +1,5 @@
 /* 
-Nombre: Marco Madrigal Pérez
+Nombre: Marco Madrigal Pérez 
 Carnet: 2019053902
 Programación Orientada a Objetos - Laboratorio 1
 */
