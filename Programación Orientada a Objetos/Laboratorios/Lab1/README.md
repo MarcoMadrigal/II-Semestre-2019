@@ -45,7 +45,7 @@ de dinero de la cuenta.
 l. Un método llamado depositarDinero que aumenta una cantidad
 específica de dinero a la cuenta.
 
-2. Escriba una clase Main.java que le probar su código:
+# 2. Escriba una clase Main.java que le probar su código:
 a. Cree un objeto de tipo Cuenta, con el id 1122 y un balance de 500.000CRC y
 un interés anual de 4.5%.
 
@@ -63,7 +63,7 @@ e. Cree un segundo objeto de tipo cuenta con los datos de su preferencia.
 f. Imprima en consola el balance, el interés mensual y la fecha de creación de la
 segunda cuenta.
 
-3. A partir de la clase Cuenta cree una nueva clase ATM.java para simular el
+# 3. A partir de la clase Cuenta cree una nueva clase ATM.java para simular el
 funcionamiento de un cajero automático.
 a. Cree diez cuentas en un arreglo con los id 0, 1, ......, 9 y el balance inicial de
 100.000CRC.
