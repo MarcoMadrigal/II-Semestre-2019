@@ -1,3 +1,8 @@
+/* 
+Nombre: Marco Madrigal Pérez
+Carnet: 2019053902
+Programación Orientada a Objetos - Laboratorio 1
+*/
 import java.time.LocalDate; // Paquete para fechas y horas
 
 public class Cuenta{
