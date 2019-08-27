@@ -1,11 +1,17 @@
 # Ejercicio POO
 # Sistema: Sistema de planillas
 Integrantes:
+
 Marco Madrigal
+
 Randall Zumbado
+
 Jeremy Madrigal
+
 Fernando Ugalde
+
 Saúl Jiménez
+
 José Murillo
 
 1. Escriba en conjunto con sus compañeros una descripción detallada de su sistema, indique de forma clara las operaciones que se pueden 
