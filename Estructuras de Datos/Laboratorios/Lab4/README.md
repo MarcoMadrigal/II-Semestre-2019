@@ -8,8 +8,7 @@ Con la intención de profundizar en el manejo de estructuras dinámicas en C, en
 solución para los 3 laboratorios anteriores. Note que el código se divide en dos archivos, el
 de código fuente lista_estudiantes.c y el encabezado lista_estudiantes.h. Para
 acceder a los archivos acceda a
-https://github.com/tec-ramijan/cursos/tree/master/estructuras_datos/2019_ii_seme
-stre/lista_estudiantes
+https://github.com/tec-ramijan/cursos/tree/master/estructuras_datos/2019_ii_semestre/lista_estudiantes
 
 Se espera que usted lea y comprenda el código ejemplo, para comprobar lo anterior, debe:
 
