@@ -13,30 +13,45 @@ public class Pila {
   private ArrayList<Object> list = new ArrayList<>();
   
   public boolean isEmpty() {
+  
     return list.isEmpty();
+    
   }
   
   public int getSize() {
+  
     return list.size();
+    
   }
   
   public Object peek() {
+  
     return list.get(getSize()-1);
+    
   }
   
   public Object pop() {
+  
     Object o = list.get(getSize()-1); list.remove(getSize()-1);
+    
     return o;
+    
   }
   
   public void push(Object o) {
+  
     list.add(o);
+    
   }
   
   @Override
+  
   public String toString() {
+  
     return "pila: " + list.toString();
+    
   }
+  
 }
 
 1.Defina una nueva clase de PilaTEC que extienda a ArrayList y dibuje el diagrama UML para las clases.
