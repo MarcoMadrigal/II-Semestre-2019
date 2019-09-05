@@ -7,7 +7,9 @@ Laboratorio 3 - Herencia y Polimorfismo
 A. El siguiente código es la implementación de una pila en Java.
 
 import java.util.ArrayList;
+
 public class Pila {
+
   private ArrayList<Object> list = new ArrayList<>();
   
   public boolean isEmpty() {
